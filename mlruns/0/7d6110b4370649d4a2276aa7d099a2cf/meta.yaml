@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/7d6110b4370649d4a2276aa7d099a2cf/artifacts
+deleted_time: 1740753604119
 end_time: 1740747578078
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7d6110b4370649d4a2276aa7d099a2cf
 run_name: puzzled-sow-172
 run_uuid: 7d6110b4370649d4a2276aa7d099a2cf

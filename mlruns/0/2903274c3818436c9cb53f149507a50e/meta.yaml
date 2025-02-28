@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2903274c3818436c9cb53f149507a50e/artifacts
+end_time: 1740753532421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2903274c3818436c9cb53f149507a50e
+run_name: bittersweet-bird-417
+run_uuid: 2903274c3818436c9cb53f149507a50e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740753526939
+status: 3
+tags: []
+user_id: deric

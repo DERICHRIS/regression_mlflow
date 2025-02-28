@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/28c5dcf850ed498d9af593d434ee9bf0/artifacts
+end_time: 1740753688049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28c5dcf850ed498d9af593d434ee9bf0
+run_name: whimsical-mink-759
+run_uuid: 28c5dcf850ed498d9af593d434ee9bf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740753682494
+status: 3
+tags: []
+user_id: deric

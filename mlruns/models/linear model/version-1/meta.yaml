@@ -1,0 +1,15 @@
+aliases: []
+creation_timestamp: 1740753719087
+current_stage: None
+description: ''
+last_updated_timestamp: 1740753719087
+name: linear model
+run_id: 28c5dcf850ed498d9af593d434ee9bf0
+run_link: ''
+source: mlflow-artifacts:/0/28c5dcf850ed498d9af593d434ee9bf0/artifacts/linear model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/28c5dcf850ed498d9af593d434ee9bf0/artifacts/linear
+  model
+user_id: null
+version: 1
