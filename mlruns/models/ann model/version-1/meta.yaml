@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740755689413
+current_stage: None
+description: ''
+last_updated_timestamp: 1740755689413
+name: ann model
+run_id: d467648b44f54a04b7a824bea5e0460e
+run_link: ''
+source: mlflow-artifacts:/0/d467648b44f54a04b7a824bea5e0460e/artifacts/ANN1
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/d467648b44f54a04b7a824bea5e0460e/artifacts/ANN1
+user_id: null
+version: 1

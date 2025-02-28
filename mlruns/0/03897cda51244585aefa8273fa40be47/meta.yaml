@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/03897cda51244585aefa8273fa40be47/artifacts
+end_time: 1740755657529
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03897cda51244585aefa8273fa40be47
+run_name: casual-penguin-996
+run_uuid: 03897cda51244585aefa8273fa40be47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740755606238
+status: 3
+tags: []
+user_id: deric

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/475b7215cd744a9782a1c0edb3bbd799/artifacts
+deleted_time: 1740755238002
+end_time: 1740755200121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 475b7215cd744a9782a1c0edb3bbd799
+run_name: adaptable-hen-932
+run_uuid: 475b7215cd744a9782a1c0edb3bbd799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740755168528
+status: 4
+tags: []
+user_id: deric

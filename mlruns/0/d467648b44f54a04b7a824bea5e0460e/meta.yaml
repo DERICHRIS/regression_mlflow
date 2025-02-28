@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d467648b44f54a04b7a824bea5e0460e/artifacts
+end_time: 1740755302044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d467648b44f54a04b7a824bea5e0460e
+run_name: wise-duck-15
+run_uuid: d467648b44f54a04b7a824bea5e0460e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740755271205
+status: 3
+tags: []
+user_id: deric
