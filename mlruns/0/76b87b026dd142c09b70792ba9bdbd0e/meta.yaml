@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/76b87b026dd142c09b70792ba9bdbd0e/artifacts
+deleted_time: 1740749528544
+end_time: 1740749512626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 76b87b026dd142c09b70792ba9bdbd0e
+run_name: burly-mink-73
+run_uuid: 76b87b026dd142c09b70792ba9bdbd0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740749512499
+status: 4
+tags: []
+user_id: deric

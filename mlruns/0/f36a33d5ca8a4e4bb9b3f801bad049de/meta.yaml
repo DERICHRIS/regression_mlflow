@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f36a33d5ca8a4e4bb9b3f801bad049de/artifacts
+deleted_time: 1740749502871
+end_time: 1740749260156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f36a33d5ca8a4e4bb9b3f801bad049de
+run_name: brawny-crane-747
+run_uuid: f36a33d5ca8a4e4bb9b3f801bad049de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740749254401
+status: 3
+tags: []
+user_id: deric

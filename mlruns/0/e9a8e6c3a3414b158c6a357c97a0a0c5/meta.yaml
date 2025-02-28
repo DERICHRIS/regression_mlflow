@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/e9a8e6c3a3414b158c6a357c97a0a0c5/artifacts
+deleted_time: 1740749174656
+end_time: 1740748682600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e9a8e6c3a3414b158c6a357c97a0a0c5
+run_name: handsome-lark-145
+run_uuid: e9a8e6c3a3414b158c6a357c97a0a0c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740748682474
+status: 4
+tags: []
+user_id: deric

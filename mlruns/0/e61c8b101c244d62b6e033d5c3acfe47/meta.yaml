@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/e61c8b101c244d62b6e033d5c3acfe47/artifacts
+deleted_time: 1740748620721
+end_time: 1740748583771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e61c8b101c244d62b6e033d5c3acfe47
+run_name: aged-squid-233
+run_uuid: e61c8b101c244d62b6e033d5c3acfe47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740748583669
+status: 4
+tags: []
+user_id: deric
