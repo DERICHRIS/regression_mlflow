@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a87973eeed1d40988d5b86789a0c7c40/artifacts
+end_time: 1740750414017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a87973eeed1d40988d5b86789a0c7c40
+run_name: luminous-hawk-428
+run_uuid: a87973eeed1d40988d5b86789a0c7c40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740750406305
+status: 3
+tags: []
+user_id: deric

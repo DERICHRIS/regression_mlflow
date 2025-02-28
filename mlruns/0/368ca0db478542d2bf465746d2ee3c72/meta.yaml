@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/368ca0db478542d2bf465746d2ee3c72/artifacts
+end_time: 1740750216697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 368ca0db478542d2bf465746d2ee3c72
+run_name: gaudy-jay-365
+run_uuid: 368ca0db478542d2bf465746d2ee3c72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740750209888
+status: 3
+tags: []
+user_id: deric
