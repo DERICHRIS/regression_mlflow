@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d8a2d121983046c3815826596368d183/artifacts
+deleted_time: 1740747653785
+end_time: 1740747509915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d8a2d121983046c3815826596368d183
+run_name: rogue-dove-68
+run_uuid: d8a2d121983046c3815826596368d183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740747509752
+status: 4
+tags: []
+user_id: deric
